@@ -1,0 +1,16 @@
+{
+  "name": "minering",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@octokit/core": "^3.4.0",
+    "@octokit/rest": "^18.5.3",
+    "fast-csv": "^4.3.6"
+  },
+  "scripts": {
+    "start1": "node index.js",
+    "start2": "node index2.js",
+    "start3": "node index3.js"
+  }
+}
