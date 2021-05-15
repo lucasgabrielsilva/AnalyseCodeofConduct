@@ -1,1 +1,0 @@
-Error: ENOENT: no such file or directory, open '/home/pexe/utf/MR/minering4/codesOfConduct/Matlab/google-_-yang_vocoder.txt'
